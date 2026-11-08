@@ -1,0 +1,1 @@
+{"name":"dexa-meeting","version":"2.0.0","private":true,"description":"Account-free DEXA Meeting with JavaScript backend","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
